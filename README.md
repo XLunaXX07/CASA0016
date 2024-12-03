@@ -39,6 +39,7 @@ A system designed to monitor indoor air quality and provide real-time feedback t
   - Provides auditory feedback for air quality alerts.
 - **Microcontroller**:
   - Arduino UNO.
+ 
 ![flowchart](flowchart1.drawio.png)
 ---
 
