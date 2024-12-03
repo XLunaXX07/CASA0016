@@ -90,19 +90,12 @@ A system designed to monitor indoor air quality and provide real-time feedback t
 
 ---
 
-## References
-
-- Persily, A., 2015. *CO₂ as an Indicator of IAQ*. Building and Environment, 91, pp.61-69.
-- Thom, S.R., et al., 2017. *Inflammatory Responses to Acute Elevations of CO₂*. Journal of Applied Physiology, 123, pp.297-307.
-- Satish, U., et al., 2012. *Is CO₂ an Indoor Pollutant?* Environmental Health Perspectives, 120(12), pp.1671–1677.
-
----
-
 ## Author
 
 **Yue Zhu**  
 UCL CASA0016  
 [GitHub Repository](https://github.com/XLunaXX07/CASA0016.0)
+email📧：ucfnyz3@ucl.ac.uk
 
 ---
 
