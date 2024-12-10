@@ -40,7 +40,7 @@ A system designed to monitor indoor air quality and provide real-time feedback t
 - **Microcontroller**:
   - Arduino UNO.
  
-![flowchart](flowchart1.drawio.png)
+![flowchart](sensor.drawio.png)
 ---
 
 ## Setup and Installation
