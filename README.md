@@ -1,7 +1,7 @@
 # Indoor Environment Comfort Monitoring System✨
 
 A system designed to monitor indoor air quality and provide real-time feedback to ensure a comfortable and healthy environment. This project utilizes sensors, an OLED display, and a buzzer to monitor and alert users of CO₂ concentration levels while displaying temperature and humidity data.
-![ProjectPhoto](CASA0016.HEIC)
+![ProjectPhoto](CASA0016.png)
 ---
 
 ## Features
